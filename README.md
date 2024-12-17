@@ -7,13 +7,17 @@
 HTML
 CSS
 JavaScript
+
 💡 I love JavaScript and I'm excited to explore React.js as my next step!
+
 🤝 I’m Looking to Collaborate On:
 Frontend projects
 Open-source contributions in JavaScript and React.js.
+
 📫 How to Reach Me:
 Email: [your-email@example.com]
 GitHub: github.com/parthodas23
+
 🧩 Fun Fact:
 I believe learning through projects and real-world examples is the best way to grow.
 
