@@ -15,7 +15,7 @@ Frontend projects
 Open-source contributions in JavaScript and React.js.
 
 📫 How to Reach Me:
-Email: [your-email@example.com]
+Email: parthodasm@gmail.com
 GitHub: github.com/parthodas23
 
 🧩 Fun Fact:
