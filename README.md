@@ -3,15 +3,9 @@
 
 🚀 About Me:
 🔭 I’m a self-taught web development learner.
-💻 Currently building frontend projects using:
-HTML
-CSS
-JavaScript
-
-💡 I love JavaScript and I'm excited to explore React.js as my next step!
-
+💻 Currently building MERN Stack projects using:
 🤝 I’m Looking to Collaborate On:
-Frontend projects
+Frontend and Backend projects
 Open-source contributions in JavaScript and React.js.
 
 📫 How to Reach Me:
