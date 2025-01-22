@@ -10,7 +10,7 @@ Open-source contributions in JavaScript and React.js.
 
 📫 How to Reach Me:
 Email: parthodasm@gmail.com
-GitHub: github.com/parthodas23
+X: https://x.com/Parthodasm23
 
 🧩 Fun Fact:
 I believe learning through projects and real-world examples is the best way to grow.
