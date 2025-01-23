@@ -3,7 +3,7 @@
 
 🚀 About Me:
 🔭 I’m a self-taught web development learner.
-💻 Currently building MERN Stack projects using:
+💻 Currently building MERN Stack projects.
 🤝 I’m Looking to Collaborate On:
 Frontend and Backend projects
 Open-source contributions in JavaScript and React.js.
