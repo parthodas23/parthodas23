@@ -15,3 +15,4 @@ X: https://x.com/Parthodasm23
 🧩 Fun Fact:
 I believe learning through projects and real-world examples is the best way to grow.
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
