@@ -16,3 +16,7 @@ X: https://x.com/Parthodasm23
 I believe learning through projects and real-world examples is the best way to grow.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
+
+<p align="center">
+ <img src="https://gh-readme-profile.vercel.app/api?username=parthodas23&theme=tokyonight" /> </p>
+ 
