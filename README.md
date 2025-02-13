@@ -1,12 +1,10 @@
-👋 Hi, I'm Partho Das from Bangladesh
-🌍 I'm passionate about technology and always curious about how it works!
-
-A Web Developer who turns ideas
+👋 Hi I'm Partha a Web Developer who turns ideas
 into interactive web experiences.
 Specializes in real-time apps, video
 streaming, and scalable solutions.
 Constantly experimenting and
 learning new technologies.
+
 
 🤝 I’m Looking to Collaborate On:
 Frontend and Backend projects
