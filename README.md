@@ -8,7 +8,7 @@ Currently on a mission:
 Let's connect and grow together! 🌱
 
 [![GitHub](https://img.shields.io/badge/GitHub-parthodas23-blue?logo=github)](https://github.com/parthodas23)
-                                                                                                              ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthodas23&layout=compact&theme=dark)
+                                                                                                                                                                    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthodas23&layout=compact&theme=dark)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
  
