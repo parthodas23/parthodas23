@@ -15,6 +15,8 @@ Let's connect and grow together! 🌱
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
 
-<p align="right">
+---
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthodas23&layout=compact&theme=dark" />
 </p>
