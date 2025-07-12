@@ -1,7 +1,7 @@
 # Hi, I’m Partha
 
+- Building cool React projects that may or may not break the internet.
 - Learning DSA (Data Structures and Algorithms) — sometimes I solve problems, sometimes problems solve me
-- Building cool React projects that may or may not break the internet.  
 - Professional tea drinker, coding enthusiast, and debugger of my own bugs.
 
 Let's connect and grow together
