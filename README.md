@@ -1,4 +1,4 @@
-# Hi, I’m
+# Hi, I’m Partha. Currently
 
 - Building cool React projects that may or may not break the internet.
 - Learning DSA (Data Structures and Algorithms) sometimes I solve problems, sometimes problems solve me
